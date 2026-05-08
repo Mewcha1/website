@@ -1,27 +1,42 @@
-# Personal CV Website Capstone Developed by AI
+# Personal Academic Website
 
-This capstone uses Python in a Jupyter Notebook to generate a personal CV website from a JSON data file.
+This repository contains my personal academic website developed as part of the Programming with AI capstone project. The website presents my professional profile, research interests, publications, teaching areas, contact links, and downloadable curriculum vitae.
 
-## Files to submit
+## Website Overview
 
-- Gebremedhin_Mewcha_Capstone.ipynb
-- cv_data.json
-- README.txt
-- The docs folder, to review the generated website files
+The website is designed as a personal academic portfolio for:
 
-## How to run
+**Mewcha A. Gebremedhin**  
+Hydrologist | Remote Sensing Expert | Hydroinformatics Researcher  
+Postdoctoral Research Associate, Florida Gulf Coast University
 
-1. Open the notebook in VS Code or Jupyter.
-2. Make sure cv_data.json is in the same folder as the notebook.
-3. Click Kernel -> Restart -> Run All Cells.
-4. Confirm that docs/index.html and docs/style.css are generated.
+The website includes the following main pages:
 
-## How to publish on GitHub Pages
+- **About**: Professional biography, research experience, education, and professional background.
+- **Publications**: Peer-reviewed journal publications, recent manuscripts, DOI links, and conference presentations.
+- **Teaching**: Teaching and academic interest areas.
+- **CV**: Downloadable curriculum vitae in PDF format.
 
-1. Create a new GitHub repository.
-2. Upload this notebook, cv_data.json, README.txt, and the docs folder.
-3. Open the repository Settings tab.
-4. Go to Pages.
-5. Under Build and deployment, select Deploy from a branch.
-6. Select the main branch and the /docs folder.
-7. Save and wait for GitHub to publish the site.
+## Project Purpose
+
+The purpose of this project is to create a professional personal website that can be hosted using GitHub Pages. The website helps present academic experience, research contributions, publications, and professional service in a clear and accessible format.
+
+This project also demonstrates the use of AI-assisted programming for website development, content organization, HTML/CSS design, and documentation.
+
+## Files in This Repository
+
+```text
+Personal_AC_Website/
+├── docs/
+│   ├── index.html
+│   ├── publications.html
+│   ├── teaching.html
+│   ├── cv.html
+│   ├── style.css
+│   └── assets/
+│       ├── profile_photo.jpg
+│       └── Mewcha_A_Gebremedhin_CV.pdf
+├── Gebremedhin_Mewcha_Capstone.ipynb
+├── Gebremedhin_Mewcha_Capstone_executed.ipynb
+├── cv_data.json
+└── README.md
