@@ -1,4 +1,4 @@
-# Personal CV Website Capstone
+# Personal CV Website Capstone Developed by AI
 
 This capstone uses Python in a Jupyter Notebook to generate a personal CV website from a JSON data file.
 
