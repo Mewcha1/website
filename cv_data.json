@@ -1,0 +1,88 @@
+{
+  "name": "Mewcha Amha Gebremedhin",
+  "title": "Hydrologist | Remote Sensing Expert | Environmental Data Scientist",
+  "email": "mewcha96@gmail.com",
+  "orcid": "https://orcid.org/0000-0002-2356-4883",
+  "linkedin": "https://www.linkedin.com/in/mewcha-amha-gebremedhin-96565371/",
+  "location": "Florida, USA",
+  "summary": "Dr. Mewcha Gebremedhin is a hydrologist and remote sensing expert with extensive experience applying geospatial technologies to water resource assessments. His work integrates satellite-derived data with in-situ measurements to improve rainfall, evapotranspiration, and interception loss estimates, especially in data-scarce regions. His current research focuses on climate change impacts on surface-groundwater interactions, salinization in coastal areas, and nature-based solutions for resilient communities.",
+  "skills": [
+    "Hydrology and water resources",
+    "Remote sensing and GIS",
+    "Environmental data science",
+    "Satellite rainfall and evapotranspiration analysis",
+    "Surface-groundwater interaction modeling",
+    "Climate change impact assessment",
+    "Python, geospatial analysis, and scientific communication"
+  ],
+  "education": [
+    {
+      "years": "2018-2024",
+      "degree": "PhD in Geosciences, Hydrology and Water Resources",
+      "institution": "University of Twente, Faculty of Geo-Information Science and Earth Observation, Netherlands"
+    },
+    {
+      "years": "2011-2013",
+      "degree": "MSc in Geoscience, Geo-Information and Earth Observation Science for Natural Resource Management",
+      "institution": "U.S. equivalent"
+    },
+    {
+      "years": "2004-2006",
+      "degree": "BSc, double major in Computer Science and Geoscience",
+      "institution": "U.S. equivalent"
+    }
+  ],
+  "experience": [
+    {
+      "years": "Oct 2024-Present",
+      "role": "Postdoctoral Research Associate",
+      "organization": "Florida Gulf Coast University (FGCU), Florida, USA"
+    },
+    {
+      "years": "Jun 2019-Sep 2024",
+      "role": "Assistant Professor",
+      "organization": "Institute of Geoinformation and Earth Observation Sciences, Mekelle University, Ethiopia"
+    },
+    {
+      "years": "Feb 2016-Jun 2018",
+      "role": "Department Head of Geoinformatics",
+      "organization": "Mekelle University, Ethiopia"
+    },
+    {
+      "years": "Jul 2015-Jan 2016",
+      "role": "Research Head",
+      "organization": "Institute of Geoinformation and Earth Observation Sciences, Mekelle University"
+    },
+    {
+      "years": "Jan 2013-Jun 2015",
+      "role": "Lecturer, Research and Publication Expert",
+      "organization": "Adwa College of Teacher Education, Ethiopia"
+    }
+  ],
+  "selected_publications": [
+    "Gebremedhin, M. A., Lubczynski, M. W., Maathuis, B. H., Daoud, M. G., & Teka, D. (2023). Spatio-temporal rainfall interception loss at the catchment scale from earth observation in a data-scarce area, Northern Ethiopia. Journal of Hydrology.",
+    "Gebremedhin, M. A., Lubczynski, M. W., Maathuis, B. H. P., & Teka, D. (2022). Deriving potential evapotranspiration from satellite-based reference evapotranspiration, Upper Tekeze Basin, Northern Ethiopia. Journal of Hydrology: Regional Studies.",
+    "Gebremedhin, M. A., Maciek W. Lubczynski, Ben H. P. Maathuis, Teka T. (2020). Novel approach to integrate daily satellite rainfall with in-situ rainfall, Upper Tekeze Basin, Ethiopia. Atmospheric Research.",
+    "Gebremedhin, M. A. (2024). Integrating in-situ data with satellite-derived products to assess surface-groundwater interactions and sustainability of groundwater resources in semi-arid environment. PhD dissertation."
+  ],
+  "awards_service": [
+    "ITC PhD publication award nomination, University of Twente, Netherlands, 2022",
+    "Best action researcher, Adwa College of Teacher Education, Ethiopia, 2010",
+    "Guest Editor, Remote Sensing (MDPI), special issue on Remote Sensing for Ecohydrology",
+    "Primary Convener, AGU Meeting 2026 session on Generative AI in Hydrology and Interdisciplinary Environmental Research"
+  ],
+  "projects": [
+    {
+      "name": "Groundwater and Climate Resiliency",
+      "description": "Uses hydrological modeling and climate scenarios to understand future surface-groundwater interaction and salinity in coastal areas."
+    },
+    {
+      "name": "Satellite Rainfall and Evapotranspiration",
+      "description": "Integrates satellite products with field measurements to improve water balance estimates in data-scarce basins."
+    },
+    {
+      "name": "Machine Learning for South Florida Water Quality",
+      "description": "Applies machine learning models to understand nutrient and pesticide dynamics from agricultural fields to lakes."
+    }
+  ]
+}
